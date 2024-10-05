@@ -51,8 +51,7 @@ header > p {
     font-family: var(--fonte-padrao);
     font-size: 15px;
     max-width: 600px;
-    padding-right: 30px;
-    padding-left: 20px;
+    padding: 0px 30px 30px 20px;
     margin: auto;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.24);
 }
@@ -94,6 +93,7 @@ main > article > h1 {
     font-size: 1.6em;
     font-weight: normal;
     text-align: center;
+    padding: 20px;
 }
 
 main > article > h2{
